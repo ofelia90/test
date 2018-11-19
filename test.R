@@ -3,3 +3,6 @@ library(data.table)
 
 
 # tutaj dodajemy nowy tekst
+
+
+## jeszcze jedna zmiana
